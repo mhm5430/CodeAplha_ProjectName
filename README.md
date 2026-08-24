@@ -1,1 +1,1 @@
-# CodeAplha_ProjectName
+# CodeAlpha_ProjectName
